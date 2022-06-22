@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"my_comtrade.h": "c",
+			"m4toa7.h": "c",
+			"test_data.h": "c"
+		}
+	}
+}

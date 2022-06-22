@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"t1.h": "c",
+			"stdio.h": "c",
+			"allvars.h": "c",
+			"time.h": "c"
+		}
+	}
+}
