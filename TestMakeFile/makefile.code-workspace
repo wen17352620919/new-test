@@ -10,6 +10,7 @@
 			"stdio.h": "c",
 			"allvars.h": "c",
 			"time.h": "c"
-		}
+		},
+		"makefile.extensionOutputFolder": "./.vscode"
 	}
 }

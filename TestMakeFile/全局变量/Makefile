@@ -1,5 +1,6 @@
-SRC = AllVars.c
-OBJ = AllVars.o
-#CUR_SOURCE+=${wildcard *.c}
+# SRC = AllVars.c
+# OBJ = AllVars.o
+SRC = ${wildcard *.c}
+OBJ = ${SRC:%.c=%.o}
 Debug:
 	$(CC) -c $(SRC) -o $(OUTPUT_DIR)/$(OBJ)
